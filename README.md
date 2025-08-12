@@ -1,2 +1,2 @@
 # project codes
-used for scraping data from different sites
+mainly use to write a code here
